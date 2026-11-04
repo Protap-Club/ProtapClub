@@ -1,0 +1,7 @@
+{
+  "description": "Turn a ProTap card or any NFC tag into a tap-to-share business card.\n\nProtap Club writes your details onto an NFC tag. Anyone who taps it with their phone opens your website, saves your contact or lands on your profile. They don't need the app.\n\nWrite to a tag:\n• Website or any link\n• Contact card with name, phone, email and company\n• Social profile on Instagram, LinkedIn, X, Facebook, GitHub, TikTok or YouTube\n• Plain text\n• Actions: call a number, send a prefilled message, start a FaceTime call, or open an address or map location\n\nRead any tag to see what's stored on it, and reset a tag to wipe it clean and reuse it.\n\nWorks with ProTap cards, stickers and accessories, and with standard NDEF NFC tags.\n\nEverything happens on your iPhone. The app has no account and doesn't collect your data.",
+  "keywords": "business card,contact,vcard,social,link,url,sticker,smart card,networking,erase,instagram,linkedin",
+  "promotionalText": "Put your contact, socials or website on a ProTap card or any NFC tag. Whoever taps it with their phone gets your details instantly, no app needed on their side.",
+  "supportUrl": "https://protap.club/pages/contact",
+  "marketingUrl": "https://protap.club"
+}

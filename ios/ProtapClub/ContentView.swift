@@ -59,6 +59,13 @@ struct ContentView: View {
     }
 
     private func checkNFCStatus() {
+        #if DEBUG
+        // The Simulator has no NFC; this lets App Store screenshots be captured there.
+        if ProcessInfo.processInfo.arguments.contains("-ScreenshotMode") {
+            toast = "Welcome to ProTap Club, buddy!"
+            return
+        }
+        #endif
         if NFCSession.isAvailable {
             toast = "Welcome to ProTap Club, buddy!"
         } else {
